@@ -1,4 +1,4 @@
-SimpleTubeDL
+## SimpleTubeDL
 SimpleTubeDL is a minimal YouTube downloader built with Python and yt-dlp. It allows downloading audio or video with automatic progress tracking and file handling, using a simple tkinter interface.
 ## Features
 1.	Download YouTube videos as MP3 or MP4
