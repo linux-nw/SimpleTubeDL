@@ -12,9 +12,9 @@ SimpleTubeDL is a minimal YouTube downloader built with Python and yt-dlp. It al
 4.	Start the script with python main.py
 5.	Paste a YouTube URL and select format
 ## Notes
-•	Not intended for large-scale or automated use
-•	GUI kept minimal for simplicity
-•	Downloads are saved to the system's default Downloads folder
+-	Not intended for large-scale or automated use
+-	GUI kept minimal for simplicity
+-	Downloads are saved to the system's default Downloads folder
 ## License
 MIT License
 
